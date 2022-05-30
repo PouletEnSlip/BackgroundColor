@@ -18,23 +18,6 @@ body {
     user-select: none;
 }
 
-footer {
-    position: absolute;
-    width: 100%;
-    bottom: 0; left: 0; right: 0;
-  }
-  
-a {
-    color: rgb(255, 255, 255);
-    text-shadow: 2px 2px 8px black;
-    text-decoration:none;
-    font-size: 50px;
-}
-
-a:hover {
-    color: rgb(200, 200, 200);
-}
-
 #btn {
 	background-color: #fff;
     border-radius: 5px;
